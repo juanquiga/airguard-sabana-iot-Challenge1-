@@ -1,0 +1,98 @@
+ACTA DE REUNIÓN #1
+
+Planeación y organización inicial
+
+Fecha: 16 de febrero
+Modalidad: Presencial
+Duración: 2 horas
+
+Objetivo
+
+Organizar los materiales, definir roles del equipo y establecer la estrategia inicial para el desarrollo del reto.
+
+Desarrollo
+
+Durante esta reunión se revisaron los requerimientos del reto planteado y se definió el enfoque general de la solución. Se realizó inventario de los componentes disponibles (ESP32, sensores, LCD, buzzer, LEDs y demás elementos electrónicos) y se verificó su estado físico y funcional.
+
+Se acordó la distribución de responsabilidades entre los integrantes del equipo, asignando tareas relacionadas con programación, simulación, documentación y montaje físico. También se estableció el cronograma de trabajo y las fechas clave para cumplir con cada fase del proyecto.
+
+Resultados
+	•	Materiales organizados y verificados.
+	•	Roles asignados.
+	•	Cronograma preliminar definido.
+
+⸻
+
+ACTA DE REUNIÓN #2
+
+Inicio del desarrollo en Arduino
+
+Fecha: 18 de febrero
+Modalidad: Presencial
+Duración: 3 horas
+
+Objetivo
+
+Iniciar la programación del sistema en el entorno de Arduino y estructurar el código base.
+
+Desarrollo
+
+Se comenzó la implementación del código en el entorno de desarrollo de Arduino, configurando el ESP32 y verificando compatibilidad de librerías. Se desarrollaron las primeras funciones para la lectura de sensores y se realizaron pruebas básicas de adquisición de datos.
+
+Se presentaron algunos inconvenientes relacionados con librerías y arquitectura del microcontrolador, los cuales fueron solucionados mediante ajustes en el entorno y validaciones técnicas.
+
+Resultados
+	•	Código base estructurado.
+	•	Lectura inicial de sensores funcional.
+	•	Validación preliminar de comunicación con el ESP32.
+
+⸻
+
+ACTA DE REUNIÓN #3
+
+Desarrollo de la Wiki y construcción de maqueta
+
+Fecha: 23 de febrero
+Modalidad: Presencial
+Duración: 4 horas
+
+Objetivo
+
+Finalizar la documentación técnica en formato Wiki y comenzar el montaje físico del prototipo.
+
+Desarrollo
+
+Se estructuró y redactó completamente la documentación técnica en formato Wiki, incluyendo secciones de diseño, desarrollo, validación, diagramas y anexos. Posteriormente, se publicó la documentación en GitHub como Wiki oficial del proyecto.
+
+En paralelo, se inició el montaje físico de la maqueta, organizando los componentes en una base estructural y realizando las primeras conexiones físicas entre sensores y microcontrolador.
+
+Resultados
+	•	Wiki finalizada y publicada.
+	•	Inicio del ensamblaje físico del sistema.
+	•	Organización estructural de la maqueta.
+
+⸻
+
+ACTA DE REUNIÓN #4
+
+Grabación del video y entrega final
+
+Fecha: 29 de febrero
+Modalidad: Virtual (Microsoft Teams)
+Duración: 1 hora
+
+Objetivo
+
+Realizar la grabación del video demostrativo y efectuar la entrega final del proyecto.
+
+Desarrollo
+
+Se realizó una videollamada a través de Microsoft Teams para grabar la presentación del proyecto. Cada integrante explicó la parte correspondiente del desarrollo: diseño, programación, funcionamiento del sistema y validación del prototipo.
+
+Se mostró el funcionamiento del sistema en tiempo real, incluyendo la lectura de sensores, cálculo del índice y activación de alertas visuales y sonoras. Finalmente, se verificó que la Wiki estuviera correctamente publicada y se procedió con la entrega formal del proyecto.
+
+Resultados
+	•	Video demostrativo grabado.
+	•	Validación final del funcionamiento del sistema.
+	•	Entrega del proyecto completada.
+
