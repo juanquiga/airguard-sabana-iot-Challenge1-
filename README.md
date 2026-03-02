@@ -6,6 +6,7 @@ El sistema fue desarrollado bajo una arquitectura modular que separa la adquisic
 
 ## VIDEO EXPLICATIVO
 
+https://youtu.be/UVFmfP1Qkfo
 
 Este proyecto fue realizado como parte de un reto académico enfocado en el diseño, desarrollo, implementación y validación de sistemas embebidos aplicados al monitoreo ambiental.
 
