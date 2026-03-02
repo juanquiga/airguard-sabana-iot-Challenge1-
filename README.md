@@ -15,3 +15,7 @@ El repositorio incluye:
 - Evidencias de validación del prototipo.
 
 Este proyecto fue realizado como parte de un reto académico enfocado en el diseño, desarrollo, implementación y validación de sistemas embebidos aplicados al monitoreo ambiental.
+
+## Diapositivas
+
+https://view.genially.com/69a5aebd5e1df20fcd292687/presentation-airguard
